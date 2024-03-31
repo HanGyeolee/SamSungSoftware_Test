@@ -7,5 +7,12 @@
 #include <ctime>
 using namespace std;
 
-extern vector<string> inputs;
-extern vector<string> outputs;
+class Question {
+public:
+	vector<string> inputs;
+	vector<string> outputs;
+
+	virtual string solve(stringstream* input) {
+		return "";
+	}
+};

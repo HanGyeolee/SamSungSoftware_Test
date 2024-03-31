@@ -1,2 +1,6 @@
-﻿  q13458.cpp
+﻿  q14501.cpp
+C:\Users\Han\Documents\GitHub\SamSungSoftware_Test\SamSungSoftware_Test\q14501.cpp(7,15): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Han\Documents\GitHub\SamSungSoftware_Test\SamSungSoftware_Test\q14501.cpp(7,77): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Han\Documents\GitHub\SamSungSoftware_Test\SamSungSoftware_Test\q14501.cpp(10,13): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Han\Documents\GitHub\SamSungSoftware_Test\SamSungSoftware_Test\q14501.cpp(51,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   SamSungSoftware_Test.vcxproj -> C:\Users\Han\Documents\GitHub\SamSungSoftware_Test\Debug\SamSungSoftware_Test.exe
